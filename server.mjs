@@ -245,6 +245,7 @@ const PlaceOrderIntentHandler = {
         .speak('Uh Oh. Looks like something went wrong.')
         .getResponse();
     }
+    
   }
 }
 
